@@ -15,7 +15,7 @@ from discord.ext import commands
 
 # Guarda el token en una variable de entorno llamada DISCORD_TOKEN.
 # NO pongas el token real directamente en este archivo.
-TOKEN = os.getenv("MTU1MjA5MDE0MzUwNTI1MjQ3Mg.Gnv0Rj.aOxaymzul86-vn4Gz6SPNgHC2HdCLhv8uix5bw")
+TOKEN = os.getenv("insertar_token")
 
 DONACION_DIARIA = 500
 INCURSIONES_DIARIAS = 2
